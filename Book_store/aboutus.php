@@ -37,7 +37,7 @@
 							<h1 class="title">About Us</h1>
 							<div class="entry" style="height:auto">
 								
-We <a href="https://www.instagram.com/p/BtUCu0lnedJ/?utm_source=ig_web_copy_link">jacton mulagi</a>we provide hardware and software solution for your business needs.<br/>
+We <a href="https://www.instagram.com/p/BtUCu0lnedJ/?utm_source=ig_web_copy_link">heros</a>we provide hardware and software solution for your business needs.<br/>
  feel free to talk to us.<br/> .
 							</div>
 							
